@@ -1,1 +1,1 @@
-# timezone
+# To display the Current Timezone using the NodeJs. With the help of API router going the display the Current Time Zone with the different cities in the world, and finiding the difference between Current Date and the upcoming next Year.
